@@ -1,3 +1,11 @@
+Patrick, I'd recommend adding the following libraries to your project: 
+react-router, react-select, and MUI
+You can do it all at once by running: 
+
+npm install react-router react-select @mui/material @emotion/react @emotion/styled
+
+Then run the application using the steps below, and look at the existing code. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
